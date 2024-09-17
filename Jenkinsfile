@@ -17,7 +17,7 @@ pipeline {
     }
 
     stages {
-
+        /*
        stage('INSTALL NPM') {
             steps {
                 sh  "npm install --legacy-peer-deps"
@@ -31,6 +31,7 @@ pipeline {
 
             }
         }
+        */
 
         
 
